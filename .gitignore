@@ -1,0 +1,10 @@
+
+Thumbs.db
+*.cfg
+*.db
+*.spw
+*.swo
+*.~*
+~*.*
+*.bak
+*.tmp
