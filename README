@@ -1,0 +1,21 @@
+XmppBot: Web
+------------
+
+This is a web interface for XmppBot (http://github.com/trilader/xmppbot)
+The interface itself has no special dependencies other than PHP 5 or
+greate with the SQLite3 module enabled.
+
+Installation
+------------
+
+Just copy the files in the repository where your webserver can find it
+and you are done.
+
+Configuration
+-------------
+
+The configuration of the web interface is simple and all options are
+stored in the file "config.php.inc" which can be found in the same
+directory as this file.
+
+All options in the configuration file are described there.
