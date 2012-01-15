@@ -1,0 +1,13 @@
+<?php
+	# Put the full or relative path to the XmppBots SQLite3 database
+	$C_PATH_TO_BOT_DB = '/path/to/config.db';
+	
+	#Web interface admin user
+	$C_ADMIN_USER = 'admin';
+	
+	#Web interface admin password
+	$C_ADMIN_PASS = 'secret';
+
+	# DO NOT EDIT ANYTHING BELOW THIS LINE
+	$db = new SQLite3($C_PATH_TO_BOT_DB);
+?>
