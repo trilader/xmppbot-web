@@ -8,8 +8,9 @@ greate with the SQLite3 module enabled.
 Installation
 ------------
 
-Just copy the files in the repository where your webserver can find it
-and you are done.
+Just copy the files in the repository where your webserver can find it.
+Make a copy of "config.inc.php.example" and name it "config.inc.php" and
+you are done. 
 
 Configuration
 -------------
